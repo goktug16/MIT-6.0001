@@ -1,5 +1,5 @@
 # Problem Set 4B
-# Name: <your name here>
+# Name: <Goktug AYAR>
 # Collaborators:
 # Time Spent: x:xx
 
