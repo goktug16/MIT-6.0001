@@ -123,8 +123,7 @@ class PhraseTrigger(Trigger):
                 if words[i + j] == phrase_list[j]:
                     number_of_founds += 1
             if number_of_founds == len(phrase_list):
-                return \
-                    True
+                return True
             number_of_founds = 0
         return False
 
