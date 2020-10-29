@@ -9,7 +9,7 @@ t1,TITLE,Turkey
 t2,DESCRIPTION,Erdogan
 
 // description trigger named t3
-t3,DESCRIPTION,Makron
+t3,DESCRIPTION,Macron
 
 // after trigger named t4
 t4,AFTER,3 Oct 2020 17:00:10
